@@ -21,7 +21,7 @@ import com.google.common.io.Files;
 
 public class ListnerImplementation implements ITestListener{
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * In this class we utilize the Listener feature of testNG and implemented Method Overriding OOP's concept.
 	 */
 	WebDriverUtility wlib=new WebDriverUtility();
@@ -89,7 +89,7 @@ public class ListnerImplementation implements ITestListener{
 		//Attach the ExtentReports and System Configure Details.
 		reporter.attachReporter(spark);
 		reporter.setSystemInfo("OS", "Windows 10");
-		reporter.setSystemInfo("author", "Jyoti H M");
+		reporter.setSystemInfo("author", "Jyoti S J");
 		reporter.setSystemInfo("Reporter Name", "Make My Trip");
 		
 		

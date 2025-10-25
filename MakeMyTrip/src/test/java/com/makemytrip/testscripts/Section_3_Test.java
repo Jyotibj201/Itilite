@@ -18,7 +18,7 @@ import com.makemytrip.POMRepository.UserHomePage;
 @Listeners(com.makemytrip.GeneriUtils.ListnerImplementation.class)
 public class Section_3_Test extends BaseClass {
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * Book flight for round trip from Bangalore to Mumbai and print the FareCharge.
 	 */
 	WebDriverUtility wlib=new WebDriverUtility();

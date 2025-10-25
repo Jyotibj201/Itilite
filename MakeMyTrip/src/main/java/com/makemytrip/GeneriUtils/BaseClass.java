@@ -28,7 +28,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * It contains TestNg Hierarchy basic configuration annotations.  
 	 */
 	public WebDriver driver;

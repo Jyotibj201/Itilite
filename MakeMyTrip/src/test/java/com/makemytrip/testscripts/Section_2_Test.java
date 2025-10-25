@@ -14,7 +14,7 @@ import com.makemytrip.POMRepository.UserHomePage;
 @Listeners(com.makemytrip.GeneriUtils.ListnerImplementation.class)
 public class Section_2_Test extends BaseClass {
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * search for the flight Bangalore to Mumbai.
 	 */
 	WebDriverUtility wlib=new WebDriverUtility();

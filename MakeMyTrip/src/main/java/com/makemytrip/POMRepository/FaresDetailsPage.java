@@ -16,7 +16,7 @@ import com.makemytrip.GeneriUtils.WebDriverUtility;
 
 public class FaresDetailsPage {
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * Implemented Encapsulation OOP's concept.
 	 * Collection of WebElements, Business Logic's and access given to the user using getters methods.
 	 */

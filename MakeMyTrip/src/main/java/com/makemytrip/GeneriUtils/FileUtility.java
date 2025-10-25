@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class FileUtility {
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * This is code is used read the data from property file for common actions of testscripts.
 	 * @return 
 	 * @throws IOException 

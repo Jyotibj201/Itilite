@@ -15,7 +15,7 @@ import com.makemytrip.GeneriUtils.WebDriverUtility;
 
 public class UserHomePage {
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * Implemented Encapsulation OOP's concept.
 	 * Collection of WebElements,locator & locators value, Business Logic's and access given to the user using getters methods.
 	 */
@@ -57,7 +57,7 @@ public class UserHomePage {
 		MyProfile.click();
 	}
 
-	//- Round Trip – Bangalore to Mumbai
+	//- Round Trip ï¿½ Bangalore to Mumbai
 	@FindBy(xpath = "//ul[@class='fswTabs latoBlack greyText']/descendant::li[@data-cy='roundTrip']")
 	private WebElement RoundTrip;
 

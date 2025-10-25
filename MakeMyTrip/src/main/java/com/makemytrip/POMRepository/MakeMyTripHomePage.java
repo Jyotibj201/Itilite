@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class MakeMyTripHomePage {
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * MakeMyTripHomePage POM Class collection of WebElements, Business Logics & Locator with value.
 	 * Encapsulation OOP's concept is implemented. 
 	 */

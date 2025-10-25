@@ -22,7 +22,7 @@ import com.google.common.io.Files;
 public class WebDriverUtility {
 	
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * @param driver
 	 * This is method is used to handle Synchronization issue, wait for the element present until specified time.
 	 */
@@ -31,7 +31,7 @@ public class WebDriverUtility {
 	}
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * Generic method for take the screenshot.
 	 * @param driver
 	 * @param screenshotName
@@ -67,7 +67,7 @@ public class WebDriverUtility {
 	}
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * This method is used to Mouse Hover on the particular Element.
 	 * @param driver
 	 * @param element
@@ -78,7 +78,7 @@ public class WebDriverUtility {
 	}
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * Method for handling Multiple options using Visible Text.
 	 * @param element
 	 * @param text
@@ -89,7 +89,7 @@ public class WebDriverUtility {
 	}
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * This method for Drag and drop mouse action. 
 	 * @param driver
 	 * @param source
@@ -102,7 +102,7 @@ public class WebDriverUtility {
 	}
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * Scroll to the particular element.
 	 * @param driver
 	 * @param element
@@ -113,7 +113,7 @@ public class WebDriverUtility {
 	}
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * This method is used to double click on the element.
 	 * @param driver
 	 * @param element
@@ -124,7 +124,7 @@ public class WebDriverUtility {
 	}
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * This method is used to right click on the web page.
 	 * @param driver
 	 */
@@ -134,7 +134,7 @@ public class WebDriverUtility {
 	}
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * This method is used to right click on the element.
 	 * @param driver
 	 * @param element
@@ -145,7 +145,7 @@ public class WebDriverUtility {
 	}
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * This method is used to switch parent window.
 	 * @param driver
 	 * @param partialTitle
@@ -160,7 +160,7 @@ public class WebDriverUtility {
 	}
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * This method is used to switch child window.
 	 * @param partialTitle
 	 * @param driver
@@ -176,7 +176,7 @@ public class WebDriverUtility {
 	}
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * This method is used to switch the window using window id.
 	 * @param driver
 	 * @param partialWinTitle

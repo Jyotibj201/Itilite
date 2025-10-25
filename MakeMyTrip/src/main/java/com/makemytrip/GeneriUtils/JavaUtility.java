@@ -7,7 +7,7 @@ public class JavaUtility {
 
 
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * Get Current Date
 	 * @return 
 	 */
@@ -20,7 +20,7 @@ public class JavaUtility {
 	
 	/**
 	 * 
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * Get Random Numbers
 	 */
 	public static String getRandomNum() {

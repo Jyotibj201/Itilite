@@ -17,7 +17,7 @@ import com.makemytrip.POMRepository.UserHomePage;
 @Listeners(com.makemytrip.GeneriUtils.ListnerImplementation.class)
 public class Section_1_Test extends BaseClass{
 	/**
-	 * @author Jyoti H M.
+	 * @author Jyoti S J.
 	 * Sign up using gmail and add travellers details.
 	 */
 	

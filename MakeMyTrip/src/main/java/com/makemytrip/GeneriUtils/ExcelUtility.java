@@ -11,7 +11,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class ExcelUtility {
 /**
- * @author Jyoti H M
+ * @author Jyoti S J
  * This method is used to read the data from excel by specifying Sheet Number, Row Number, Cell Number
  * @throws IOException 
  * @throws EncryptedDocumentException 
@@ -25,7 +25,7 @@ public class ExcelUtility {
 	}
 	
 	/**
-	 * @author Jyoti H M
+	 * @author Jyoti S J
 	 * This method is used to write the data in excel sheet.
 	 * @param SheetName
 	 * @param RowNum
